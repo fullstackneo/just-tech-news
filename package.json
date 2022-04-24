@@ -5,9 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "bs": "browser-sync start --proxy \"localhost:3001\" --files \"**\""
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
